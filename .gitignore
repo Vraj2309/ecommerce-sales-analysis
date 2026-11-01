@@ -1,0 +1,8 @@
+# Raw data and the generated database are too large for GitHub.
+# Anyone can recreate them by downloading the dataset and running load_data.py.
+data/
+*.db
+
+# Jupyter / Python temporary files
+.ipynb_checkpoints/
+__pycache__/
